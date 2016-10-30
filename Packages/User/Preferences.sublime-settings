@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"font_size": 11,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Package Control",
+		"Vintage"
+	],
+	"predawn_tabs_small": true,
+	"remember_open_files": false,
+	"theme": "predawn.sublime-theme"
+}
