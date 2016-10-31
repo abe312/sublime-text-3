@@ -4,7 +4,6 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Package Control",
 		"Vintage"
 	],
 	"predawn_tabs_small": true,
