@@ -41,7 +41,7 @@ Ubuntu  `~/.config/sublime-text-3`
 
 Mac `/Users/$USER/library/Application Support/Sublime Text 3`
 
-`git clone https://github.com/abe312/sublime-text-3`
+**`git clone https://github.com/abe312/sublime-text-3`**
 
 And done..
 Cherios!
