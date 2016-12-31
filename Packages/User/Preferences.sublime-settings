@@ -6,6 +6,7 @@
 	[
 		"Vintage"
 	],
+	"ignore_vcs_packages":true,
 	"predawn_tabs_small": true,
 	"remember_open_files": false,
 	"theme": "predawn.sublime-theme"
