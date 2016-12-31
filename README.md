@@ -18,7 +18,7 @@ or simply `~/.config/sublime-text-3`
 ##For Mac
 *open terminal and copy the contents after the next step*
 
-`open /Applications/Sublime\ Text.app/Contents/MacOS`
+`open /Users/$USER/library/Application Support/Sublime Text 3`
 
 
 
@@ -32,3 +32,5 @@ The only folders important for getting all the stuff are
 Build version I'm currently using: Build 3126
 
 Another way you may simply `git clone` from terminal in those folders and all the contents would be copied.
+
+These settings for sync come as is and nothing can be claimed in case the software doesn't works as its supposed to..
