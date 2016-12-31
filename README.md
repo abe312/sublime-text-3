@@ -34,3 +34,12 @@ Build version I'm currently using: Build 3126
 Another way you may simply `git clone` from terminal in those folders and all the contents would be copied.
 
 These settings for sync come as is and nothing can be claimed in case the software doesn't works as its supposed to..
+
+Windows`C:\\Users\$USER\AppData\Roaming\Sublime Text 3`
+Ubuntu `~/.config/sublime-text-3`
+Mac `/Users/$USER/library/Application Support/Sublime Text 3`
+
+`git clone https://github.com/abe312/sublime-text-3`
+
+And done..
+Cherios!
