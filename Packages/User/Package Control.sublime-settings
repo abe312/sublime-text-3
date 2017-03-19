@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"ignore_vcs_packages": true,
+	"installed_packages":
+	[
+		"Align Arguments",
+		"Alignment",
+		"AlignTab",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"BracketFlasher",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Django",
+		"DocBlockr",
+		"Emmet",
+		"Google Spell Check",
+		"HTML-CSS-JS Prettify",
+		"Markdown Extended",
+		"Package Control",
+		"Predawn",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeLinter"
+	]
+}
