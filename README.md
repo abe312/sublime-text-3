@@ -6,7 +6,7 @@ A simple way to convert vanilla sublime to something much more...
 
 *Edit*
 -get package control from here: https://packagecontrol.io/installation
--just copy stuff inside Packages/User/* (it contains all these packages and themes which packagecontrol will install for you)
+-just copy stuff inside Packages/User/* (it contains all these packages and themes which packagecontrol will install for you) -https://packagecontrol.io/docs/syncing
 
 ##For windows 
 *copy the contents in:*
