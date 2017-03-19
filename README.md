@@ -4,6 +4,10 @@ sublime configurations themes, emmet, package manager and more..
 A simple way to convert vanilla sublime to something much more...
 *You'll have to install sublime text 3 first*
 
+*Edit*
+-get package control from here: https://packagecontrol.io/installation
+-just copy stuff inside Packages/User/* (it contains all these packages and themes which packagecontrol will install for you)
+
 ##For windows 
 *copy the contents in:*
 
